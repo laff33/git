@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="travel_content">
+    <body>
+      <trans-unit id="1">
+        <source>Kyoto is a beautiful city known for its historic shrines and temples.</source>
+        <target>京都は歴史的な神社や寺院で知られる美しい都市です。</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Many tourists visit Kyoto to experience its traditional culture.</source>
+        <target>多くの観光客が京都を訪れて、その伝統文化を体験します。</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>One of the most famous temples is Kinkaku-ji, also known as the Golden Pavilion.</source>
+        <target>最も有名な寺院の一つは、金閣寺とも呼ばれる金閣です。</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>The Fushimi Inari Shrine is known for its thousands of red torii gates.</source>
+        <target>伏見稲荷大社は、何千もの赤い鳥居で知られています。</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Exploring Kyoto's temples and shrines is a peaceful and enlightening experience.</source>
+        <target>京都の寺院や神社を巡ることは、静かで啓発的な体験です。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
